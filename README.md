@@ -52,7 +52,7 @@ YakShaver doesn't just attach your video — it watches it and writes the issue:
 
 ## Want this on your own project?
 
-YakShaver QR is one way in. The full product connects to your GitHub repos or Azure DevOps and turns recordings from anywhere — Teams meetings, OneDrive, the desktop app, a browser extension, or a QR code on a wall — into the perfect PBI.
+YakShaver is one way in. The full product connects to your GitHub repos or Azure DevOps and turns recordings from anywhere — Teams meetings, OneDrive, the desktop app, a browser extension, or a QR code on a wall — into the perfect PBI.
 
 1. Register at **[yakshaver.ai](https://yakshaver.ai)** and connect your project source.
 2. Create your own **YakShaver QR** link and print the code. Stick it wherever problems get found: a test lab, a kiosk, a construction site, a reception desk.
