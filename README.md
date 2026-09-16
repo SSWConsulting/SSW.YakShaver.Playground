@@ -12,6 +12,9 @@ No account. No app to install. Nothing to fill in.
 
 **[📱 Open the YakShaver QR reporter][qr]** — or scan the QR code on the demo card.
 
+<img width="1024" height="1024" alt="yaksmasher-Public on NDC Oslo" src="https://github.com/user-attachments/assets/992c0f73-5f72-4b7d-8abc-1362efb7bc32" />
+
+
 Then:
 
 1. **Tap "Record with camera"** and allow camera + microphone access.
