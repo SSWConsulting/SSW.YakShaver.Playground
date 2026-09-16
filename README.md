@@ -1,6 +1,6 @@
 # SSW YakShaver Playground
 
-This is the public sandbox for **YakShaver QR** — the fastest way to report a problem.
+This is the public sandbox for **YakShaver** — the fastest way to report a problem.
 
 Scan a QR code, film what's wrong with your phone, describe it out loud, and hit send. YakShaver watches the video, writes it up, and files a GitHub issue **in this repo** — usually within a minute.
 
