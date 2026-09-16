@@ -10,7 +10,7 @@ No account. No app to install. Nothing to fill in.
 
 ## Try it now
 
-**[📱 Open the YakShaver QR reporter][qr]** — or scan the QR code on the demo card.
+**[📱 Open the YakShaver reporter][qr]** — or scan the QR code on the demo card.
 
 Then:
 
